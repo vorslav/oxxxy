@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 2px;
+}
+body {
+  color: turquoise;
+}
+a {
+  color: black;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: georgia;
+  font-size: 20px;
+  line-height: 1.5;
+}
+header {
+  background: url(imgs/Vagabund.png);
+}
+header h1 {
+  height: 400px;
+  line-height: 400px;
+  color: white;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 144px;
+  text-align: center;
+  text-shadow: 0 0 20px purple;
+}
+section,
+aside {
+  width: 65%;
+  margin: 2em auto;
+}
